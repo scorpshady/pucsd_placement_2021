@@ -1,0 +1,39 @@
+Give us the length of the list
+10
+
+
+Output: 6
+
+
+
+Give us the length of the list
+50
+
+
+Output: 34
+
+
+
+
+Give us the length of the list
+1000
+
+
+Output: 706
+
+
+
+Give us the length of the list
+10000
+
+
+Output: 7070
+
+
+Give us the length of the list
+100000
+
+
+Output: 26553
+
+
