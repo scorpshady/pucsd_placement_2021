@@ -1,0 +1,52 @@
+Enter the number for calculating Nth fibonacci number
+0
+
+The fibonacci number is 0
+Enter the number for calculating Nth even fibonacci number
+0
+
+The fibonacci number is 0
+
+
+
+
+
+
+
+Enter the number for calculating Nth fibonacci number
+12
+
+The fibonacci number is 144
+Enter the number for calculating Nth even fibonacci number
+1
+
+The fibonacci number is 2
+
+
+
+
+
+
+Enter the number for calculating Nth fibonacci number
+27
+
+The fibonacci number is 196418
+Enter the number for calculating Nth even fibonacci number
+2
+
+The fibonacci number is 8
+
+
+
+
+
+
+
+Enter the number for calculating Nth fibonacci number
+0
+
+The fibonacci number is 0
+Enter the number for calculating Nth even fibonacci number
+3
+
+The fibonacci number is 34
